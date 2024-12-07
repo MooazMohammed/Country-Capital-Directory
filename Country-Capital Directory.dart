@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  
+  // Map to store countries and their capitals
   Map<String, String> countryCapitalMap = {};
 
   // Main program loop
